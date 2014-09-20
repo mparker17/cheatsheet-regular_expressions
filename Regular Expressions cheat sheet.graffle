@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActiveLayerIndex</key>
+	<integer>0</integer>
+	<key>ApplicationVersion</key>
+	<array>
+		<string>com.omnigroup.OmniGraffle</string>
+		<string>139.15.0.171074</string>
+	</array>
+	<key>AutoAdjust</key>
+	<true/>
+	<key>BackgroundGraphic</key>
+	<dict>
+		<key>Bounds</key>
+		<string>{{0, 0}, {576, 733}}</string>
+		<key>Class</key>
+		<string>SolidGraphic</string>
+		<key>ID</key>
+		<integer>2</integer>
+		<key>Style</key>
+		<dict>
+			<key>shadow</key>
+			<dict>
+				<key>Draws</key>
+				<string>NO</string>
+			</dict>
+			<key>stroke</key>
+			<dict>
+				<key>Draws</key>
+				<string>NO</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>BaseZoom</key>
+	<integer>0</integer>
+	<key>CanvasOrigin</key>
+	<string>{0, 0}</string>
+	<key>ColumnAlign</key>
+	<integer>1</integer>
+	<key>ColumnSpacing</key>
+	<real>36</real>
+	<key>CreationDate</key>
+	<string>2011-12-02 09:34:57 -0500</string>
+	<key>Creator</key>
+	<string>Matt Parker</string>
+	<key>DisplayScale</key>
+	<string>1 0/72 in = 1.0000 in</string>
+	<key>GraphDocumentVersion</key>
+	<integer>8</integer>
+	<key>GraphicsList</key>
+	<array>
+		<dict>
+			<key>Bounds</key>
+			<string>{{13, 23.889}, {191, 22}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>Helvetica</string>
+				<key>Size</key>
+				<real>9</real>
+			</dict>
+			<key>ID</key>
+			<integer>19</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\fs18 \cf0 Licensed under a Creative Commons Attribution-ShareAlike 2.5 Canada license}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{18.5, 3}, {180, 22}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>ID</key>
+			<integer>18</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs36 \cf0 Regular Expressions}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{372, 73.8333}, {191, 118.167}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>13</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Pattern modifiers
+\b0 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1 \cf0 g
+\f0 	global match\
+
+\f1 i
+\f0 	case-insensitive\
+
+\f1 m
+\f0 	multiple lines\
+
+\f1 s
+\f0 	treat string as single-line\
+
+\f1 x
+\f0 	
+\fs22 ignore comments, whitespace
+\fs24 \
+
+\f1 e
+\f0 	evaluate replacement\
+
+\f1 U
+\f0 	ungreedy pattern}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{372, 10}, {191, 62}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>12</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Reserved characters
+\b0 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1 \cf0 ^	[	]	.	$	\{	\}\
+\\	(	)	+	|	&lt;	&gt;\
+?}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{13, 50}, {191, 176}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>11</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPS-ItalicMT;\f2\fmodern\fcharset0 CourierNewPSMT;
+}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;\red128\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Basics
+\b0 \cf0 \
+\pard\tx820\tx1420\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\i \cf3 ab
+\f0\i0 \cf0 	
+\i \cf3 a
+\i0 \cf0  followed by 
+\i \cf3 b
+\i0 \cf0 \
+
+\f2 (
+\f1\i \cf3 a
+\f2\i0 \cf0 |
+\f1\i \cf3 b
+\f2\i0 \cf0 )
+\f0 	
+\i \cf3 a
+\i0 \cf0  or 
+\i \cf3 b
+\i0 \cf0 \
+\
+
+\f2 (
+\f1\i \cf3 \'85
+\f2\i0 \cf0 )
+\f0 	group, capturing\
+
+\f2 (?:
+\f1\i \cf3 \'85
+\f2\i0 \cf0 )
+\f0 	group, non-capturing\
+\
+
+\f2 [
+\f1\i \cf3 \'85
+\f2\i0 \cf0 ]
+\f0 	character class\
+
+\f2 [^
+\f1\i \cf3 \'85
+\f2\i0 \cf0 ]
+\f0 	character class, negative\
+\
+
+\f2 .
+\f0 	any one character \
+	(except newline)}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{13, 598}, {191, 123}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>9</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;\f2\fmodern\fcharset0 CourierNewPS-ItalicMT;
+}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;\red128\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 String replacement\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\b0 \cf0 $
+\f2\i \cf3 ?
+\f0\i0 \cf0 	Contents of group 
+\i \cf3 ?
+\i0 \cf0 \
+
+\f1 $`
+\f0 	Before matched string\
+
+\f1 $'
+\f0 	After matched string\
+
+\f1 $+
+\f0 	String matched last\
+
+\f1 $&amp;
+\f0 	Entire matched string\
+
+\f1 $_
+\f0 	Entire input string\
+
+\f1 $$
+\f0 	Literal $}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{13, 444.556}, {191, 149.333}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>8</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Assertions for Groups\cf0 \
+\pard\tx880\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\b0 \cf0 ?=
+\f0 	Look-ahead\
+
+\f1 ?!
+\f0 	NOT look-ahead\
+
+\f1 ?&lt;=
+\f0 	Look-behind\
+
+\f1 ?!=
+\f0 	NOT look-behind\
+
+\f1 ?&lt;!
+\f0 	NOT look-behind\
+
+\f1 ?&gt;
+\f0 	Once-only\
+
+\f1 ?()
+\f0 	IF-THEN condition\
+
+\f1 ?()|
+\f0 	IF-THEN-ELSE condition\
+
+\f1 ?#
+\f0 	Comment}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{211, 456}, {353, 265}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>7</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;}
+\pard\tx560\tx2800\tx3360\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Special classes and Unicode groups
+\b0 \cf0 \
+\pard\tqc\tx2840\tqr\tx6800\ql\qnatural\pardirnatural
+
+\b \cf0 Posix	Unicode	Meaning
+\b0 \
+
+\f1 [:print:]	[\\P\{C\}]
+\f0 	visible chars, whitespace\
+
+\f1 [:space:]	[\\p\{Z\}\\t\\r\\n\\v\\f]
+\f0 	all whitespace\
+
+\f1 [:word:]	[\\p\{L\}\\p\{N\}\\p\{Pc\}]
+\f0 	letters, numbers, _s\
+\
+
+\f1 [:upper:]	[\\p\{Lu\}]
+\f0 	uppercase letters\
+
+\f1 [:lower:]	[\\p\{Ll\}]
+\f0 	lowercase letters\
+
+\f1 [:alpha:]	[\\p\{L&amp;\}]
+\f0 	all letters\
+\
+
+\f1 [:alnum:]	[\\p\{L&amp;\}\\p\{Nd\}]
+\f0 	letters, numbers\
+\
+
+\f1 [:digit:]	[\\p\{Nd\}]
+\f0 	numbers\
+
+\f1 [:xdigit:]	[A-Fa-f0-9]
+\f0 	hex numbers\
+\
+
+\f1 [:punct:]	[\\p\{P\}\\p\{S\}]
+\f0 	punctuation, symbols\
+
+\f1 [:blank:]	[\\p\{Zs\}\\t]
+\f0 	spaces, tabs, linebreaks\
+
+\f1 [:cntrl:]	[\\p\{Cc\}]
+\f0 	control characters}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{13, 230.111}, {191, 211.333}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>6</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;\f2\fmodern\fcharset0 CourierNewPS-ItalicMT;
+}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;\red128\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Special Characters\cf0 \
+\pard\tx880\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\b0 \cf0 \\t
+\f0 	Tab\
+
+\f1 \\v
+\f0 	Vertical tab\
+
+\f1 \\n
+\f0 	OS-neutral newline\
+
+\f1 \\r
+\f0 	Carriage return\
+
+\f1 \\f
+\f0 	Line-feed\
+
+\f1 \\a
+\f0 	Bell\
+
+\f1 \\e
+\f0 	Escape\
+
+\f1 [\\b]
+\f0 	Backspace\
+
+\f1 \\c
+\f2\i \cf3 ?
+\f0\i0 \cf0 	Control char CTRL-
+\i \cf3 ?
+\i0 \cf0 \
+
+\f1 \\x
+\f2\i \cf3 ?
+\f0\i0 \cf0 	Hex character 
+\i \cf3 ?
+\i0 \cf0 \
+
+\f1 \\O
+\f2\i \cf3 ?
+\f0\i0 \cf0 	Octal character 
+\i \cf3 ?\
+
+\f1\i0 \cf0 \\N\{
+\f2\i \cf3 ?
+\f1\i0 \cf0 \}
+\f0 	Named character 
+\i \cf3 ?
+\i0 \cf0 \
+
+\f1 \\P\{
+\f2\i \cf3 ?
+\f1\i0 \cf0 \}
+\f0 	Unicode letter 
+\i \cf3 ?}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{211, 194.667}, {353, 165.333}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>5</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;\f2\fmodern\fcharset0 CourierNewPS-ItalicMT;
+}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;\red128\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Quantifiers\cf0 \
+\pard\tx1120\tx3680\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1\b0 \cf0 *
+\f0 	Match 0 or more	(greedy)\
+
+\f1 *?
+\f0 	Match 0 or more	(non-greedy)\
+
+\f1 +
+\f0 	Match 1 or more	(greedy)\
+
+\f1 +?
+\f0 	Match 1 or more	(non-greedy)\
+
+\f1 ?
+\f0 	Match 0 or 1	(greedy)\
+
+\f1 ??
+\f0 	Match 0 or 1	(non-greedy)\
+
+\f1 \{
+\f2\i \cf3 N
+\f1\i0 \cf0 \}
+\f0 	Match exactly 
+\i \cf3 N
+\i0 \cf0  times\
+
+\f1 \{
+\f2\i \cf3 N
+\f1\i0 \cf0 ,\}
+\f0 	Match 
+\i \cf3 N
+\i0 \cf0  or more\
+
+\f1 \{
+\f2\i \cf3 N
+\f1\i0 \cf0 ,
+\f2\i \cf3 M
+\f1\i0 \cf0 \}
+\f0 	Match 
+\i \cf3 N
+\i0 \cf0  \uc0\u8804  number \u8804  
+\i \cf3 M
+\i0 \cf0 	(greedy)\
+
+\f1 \{
+\f2\i \cf3 N
+\f1\i0 \cf0 ,
+\f2\i \cf3 M
+\f1\i0 \cf0 \}?
+\f0 	Match 
+\i \cf3 N
+\i0 \cf0  \uc0\u8804  number \u8804  
+\i \cf3 M
+\i0 \cf0 	(non-greedy)}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{211, 362.5}, {353, 91}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>4</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;\f2\fmodern\fcharset0 CourierNewPS-ItalicMT;
+}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;\red128\green0\blue0;}
+\pard\tx560\tx2800\tx3360\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Character classes
+\b0 \cf0 \
+\pard\tx760\tx3120\tx3740\tx6720\ql\qnatural\pardirnatural
+
+\f1 \cf0 \\c
+\f0 	Control character	
+\f1 \\C
+\f0 	Not control character\
+
+\f1 \\s
+\f0 	Whitespace	
+\f1 \\S
+\f0 	Not whitespace\
+
+\f1 \\d
+\f0 	Digit	
+\f1 \\D
+\f0 	Not digit\
+
+\f1 \\w
+\f0 	Word	
+\f1 \\W
+\f0 	Not word\
+
+\f1 \\p\{
+\f2\i \cf3 ?
+\f1\i0 \cf0 \}
+\f0 	Unicode group 
+\i \cf3 ?}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{211, 10}, {159, 182}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>3</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 CourierNewPSMT;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\b\fs24 \cf2 Anchors
+\b0 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f1 \cf0 ^
+\f0 	start of line\
+
+\f1 $
+\f0 	end of line\
+\
+
+\f1 \\A
+\f0 	start of string\
+
+\f1 \\Z
+\f0 	end of string\
+\
+
+\f1 \\&lt;
+\f0 	start of word\
+
+\f1 \\&gt;
+\f0 	end of word\
+\
+
+\f1 \\b
+\f0 	word boundary\
+
+\f1 \\B
+\f0 	not a word boundary}</string>
+			</dict>
+		</dict>
+	</array>
+	<key>GridInfo</key>
+	<dict/>
+	<key>GuidesLocked</key>
+	<string>NO</string>
+	<key>GuidesVisible</key>
+	<string>YES</string>
+	<key>HPages</key>
+	<integer>1</integer>
+	<key>ImageCounter</key>
+	<integer>1</integer>
+	<key>KeepToScale</key>
+	<false/>
+	<key>Layers</key>
+	<array>
+		<dict>
+			<key>Lock</key>
+			<string>NO</string>
+			<key>Name</key>
+			<string>Layer 1</string>
+			<key>Print</key>
+			<string>YES</string>
+			<key>View</key>
+			<string>YES</string>
+		</dict>
+	</array>
+	<key>LayoutInfo</key>
+	<dict>
+		<key>Animate</key>
+		<string>NO</string>
+		<key>circoMinDist</key>
+		<real>18</real>
+		<key>circoSeparation</key>
+		<real>0.0</real>
+		<key>layoutEngine</key>
+		<string>dot</string>
+		<key>neatoSeparation</key>
+		<real>0.0</real>
+		<key>twopiSeparation</key>
+		<real>0.0</real>
+	</dict>
+	<key>LinksVisible</key>
+	<string>NO</string>
+	<key>MagnetsVisible</key>
+	<string>NO</string>
+	<key>MasterSheets</key>
+	<array/>
+	<key>ModificationDate</key>
+	<string>2013-03-26 21:15:08 -0400</string>
+	<key>Modifier</key>
+	<string>Matt Parker</string>
+	<key>NotesVisible</key>
+	<string>NO</string>
+	<key>Orientation</key>
+	<integer>2</integer>
+	<key>OriginVisible</key>
+	<string>NO</string>
+	<key>PageBreaks</key>
+	<string>YES</string>
+	<key>PrintInfo</key>
+	<dict>
+		<key>NSBottomMargin</key>
+		<array>
+			<string>float</string>
+			<string>41</string>
+		</array>
+		<key>NSLeftMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+		<key>NSPaperSize</key>
+		<array>
+			<string>size</string>
+			<string>{612, 792}</string>
+		</array>
+		<key>NSRightMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+		<key>NSTopMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+	</dict>
+	<key>PrintOnePage</key>
+	<false/>
+	<key>ReadOnly</key>
+	<string>NO</string>
+	<key>RowAlign</key>
+	<integer>1</integer>
+	<key>RowSpacing</key>
+	<real>36</real>
+	<key>SheetTitle</key>
+	<string>Canvas 1</string>
+	<key>SmartAlignmentGuidesActive</key>
+	<string>YES</string>
+	<key>SmartDistanceGuidesActive</key>
+	<string>YES</string>
+	<key>UniqueID</key>
+	<integer>1</integer>
+	<key>UseEntirePage</key>
+	<false/>
+	<key>UserInfo</key>
+	<dict>
+		<key>kMDItemAuthors</key>
+		<array>
+			<string>mparker17@536298.no-reply.drupal.org</string>
+		</array>
+		<key>kMDItemComments</key>
+		<string>This work is licensed under a Creative Commons Attribution-ShareAlike 2.5 Canada license.</string>
+		<key>kMDItemCopyright</key>
+		<string>Creative Commons Attribution-ShareAlike 2.5 Canada</string>
+		<key>kMDItemDescription</key>
+		<string>A Regular Expressions cheat sheet.</string>
+	</dict>
+	<key>VPages</key>
+	<integer>1</integer>
+	<key>WindowInfo</key>
+	<dict>
+		<key>CurrentSheet</key>
+		<integer>0</integer>
+		<key>ExpandedCanvases</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Canvas 1</string>
+			</dict>
+		</array>
+		<key>Frame</key>
+		<string>{{-1, 60}, {1038, 718}}</string>
+		<key>ListView</key>
+		<true/>
+		<key>OutlineWidth</key>
+		<integer>142</integer>
+		<key>RightSidebar</key>
+		<false/>
+		<key>ShowRuler</key>
+		<true/>
+		<key>Sidebar</key>
+		<true/>
+		<key>SidebarWidth</key>
+		<integer>120</integer>
+		<key>VisibleRegion</key>
+		<string>{{-156, 0}, {889, 580}}</string>
+		<key>Zoom</key>
+		<real>1</real>
+		<key>ZoomValues</key>
+		<array>
+			<array>
+				<string>Canvas 1</string>
+				<real>1</real>
+				<real>1</real>
+			</array>
+		</array>
+	</dict>
+</dict>
+</plist>
